@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=DS_ NewDesignator=DS_source
+Added Class: Name=STM32_FFT

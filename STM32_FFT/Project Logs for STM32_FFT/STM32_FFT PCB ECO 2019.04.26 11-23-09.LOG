@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MIC OUT Pin=P4-16
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X16 New Footprint=HDR1X6
+Change Component Comment : Designator=P4 Old Comment=Header 16 New Comment=Header 6
+Added Pin To Net: NetName=MIC OUT Pin=P4-6
+Added Room: Name=STM32_FFT

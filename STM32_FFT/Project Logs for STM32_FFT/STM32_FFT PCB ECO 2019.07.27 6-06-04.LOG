@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=U1_RX Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=U1_RX Pin=P4-3
+Added Room: Name=STM32_FFT

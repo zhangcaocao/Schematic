@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM32_FFT.PrjPcb|ReportField=ProjectFullPath~C:\Users\zhangcaocao\Desktop\STM32_FFT\STM32_FFT\STM32_FFT.PrjPcb|ReportField=Title~Bill of Materials For Project [STM32_FFT.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~66|ReportField=ReportTime~16:22:39|ReportField=ReportDate~2019.05.06|ReportField=ReportDateTime~2019.05.06 16:22:39|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019.05.06|ReportField=CurrentTime~16:22:27|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\zhangcaocao\Desktop\STM32_FFT\STM32_FFT\Sheet_PCB\STM32_FFT.SchDoc|ReportField=DocumentName~STM32_FFT.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019.04.26|ReportField=Organization~|ReportField=ProjectName~STM32_FFT.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~STM32_FFT.PrjPcb|ReportField=DataSourceFullPath~C:\Users\zhangcaocao\Desktop\STM32_FFT\STM32_FFT\STM32_FFT.PrjPcb
+1|BATT||BAT1|BATM|BAT|1
+2|VCC5|Header, 3-Pin, Dual row|BOOT1, VOUT5.5|HDR2X3|Header 3X2|2
+3|4.7uf||C1|0603P|C|1
+4|104||C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C16, C17, C18|0603P|C|15
+5|220uF||C14, C15|CC6.56.5|CAP|2
+6|1N4148|1N4148|D1, D2, D3|DIODE_SOP|D|3
+7|LED1|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DS0, DS1, DS2, DS3, DS4, DS5, DS6, DS7, DS_source|SMDLED|LED2|9
+8|BUTTON||K1|BTN8.5*8.5|BUTTON|1
+9|KEY_M||KEY0, KEY1, RESET1|KEY_M|KEY_M|3
+10|LM358||LM358|LC-DIP-8|LM358|1
+11|MIC||MIC1|MIC|MIC|1
+12|Header 4|Header, 4-Pin|P1|HDR1X4|Header 4|1
+13|Header 7|Header, 7-Pin|P2|HDR1X7|Header 7|1
+14|Header 6|Header, 6-Pin|P4|HDR1X6|Header 6|1
+15|10K||R1, R5, R6|0603P|R|3
+16|RPot|Potentiometer|R2|VR5|RPot|1
+17|1.5K||R3, R7, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21|0603P|R|13
+18|1K||R4|0603P|R|1
+19|STM32F103RCT6||U1|STM-LQFP64_M|STM32F103RDT6|1
+20|AMS1117-3.3||U2|AMS1117|AMS1117|1
+21|USB||USB_Source|USB/SM0.8-6H5|USB5|1
+22|VCC3.3|Header, 3-Pin, Dual row|VOUT3.3|HDR2X3|Header 3X2|1
+23|32.768K|Crystal Oscillator|Y1|XTAL_US|XTAL|1
+24|8MHz|Crystal Oscillator|Y2|XTAL_US|XTAL|1

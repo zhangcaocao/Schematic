@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=KEY0 Pin=U1-52
+Removed Pin From Net: NetName=KEY1 Pin=U1-53
+Added Pin To Net: NetName=KEY1 Pin=U1-22
+Added Pin To Net: NetName=KEY0 Pin=U1-24
+Added Room: Name=STM32_FFT

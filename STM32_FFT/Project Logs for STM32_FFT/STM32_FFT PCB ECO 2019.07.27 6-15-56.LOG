@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=BAT1-2
+Removed Pin From Net: NetName=VCC3.3 Pin=D1-1
+Removed Member From Class: ClassName=STM32_FFT Member=BAT1
+Removed Member From Class: ClassName=STM32_FFT Member=D1
+Removed Member From Class: ClassName=STM32_FFT Member=D2
+Added Room: Name=STM32_FFT

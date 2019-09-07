@@ -1,0 +1,9 @@
+Change Component Comment : Designator=R7 Old Comment=1.5K(1M) New Comment=1M
+Change Component Comment : Designator=R12 Old Comment=1.5K New Comment=1.5K£¨10K£©
+Change Component Comment : Designator=R13 Old Comment=1.5K New Comment=1.5K£¨10K£©
+Change Component Comment : Designator=R3 Old Comment=1.5K New Comment=10K
+Change Component Comment : Designator=C8 Old Comment=104(22) New Comment=22
+Change Component Comment : Designator=C9 Old Comment=104(22) New Comment=22
+Added Pin To Net: NetName=VCC5 Pin=R1-2
+Added Pin To Net: NetName=VCC5 Pin=R5-2
+Added Room: Name=STM32_FFT

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U1 Old Footprint=STM-LQFP64_V New Footprint=STM-LQFP64_N
+Change Component Designator: OldDesignator=LM358 NewDesignator=*LM1
+Added Room: Name=STM32_FFT

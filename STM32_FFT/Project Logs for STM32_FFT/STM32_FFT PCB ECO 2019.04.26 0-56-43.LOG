@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=R10-1
+Removed Member From Class: ClassName=STM32_FFT Member=R8
+Removed Member From Class: ClassName=STM32_FFT Member=R9
+Removed Member From Class: ClassName=STM32_FFT Member=R10
+Added Member To Class: ClassName=STM32_FFT Member=Component U1 STM32F103RCT6
+Added Room: Name=STM32_FFT

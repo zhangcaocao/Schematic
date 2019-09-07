@@ -1,0 +1,4 @@
+Change Component Comment : Designator=VOUT1 Old Comment=VCC5 New Comment=VCC3.3
+Change Component Designator: OldDesignator=VOUT1 NewDesignator=VOUT3.3
+Change Component Designator: OldDesignator=VOUT2 NewDesignator=VOUT5.5
+Added Room: Name=STM32_FFT

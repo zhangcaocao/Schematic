@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=R2-1
+Removed Pin From Net: NetName=NetLM358_2 Pin=R2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R2-3
+Removed Member From Class: ClassName=STM32_FFT Member=R2
+Added Component: Designator=R_MIC(0603P)
+Added Pin To Net: NetName=NetLM358_2 Pin=R_MIC-1
+Added Pin To Net: NetName=NetC1_1 Pin=R_MIC-2
+Added Member To Class: ClassName=STM32_FFT Member=Component R_MIC 40K
+Added Room: Name=STM32_FFT

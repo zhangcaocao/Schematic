@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MIC OUT Pin=U1-25
+Added Pin To Net: NetName=MIC OUT Pin=U1-8
+Added Room: Name=STM32_FFT

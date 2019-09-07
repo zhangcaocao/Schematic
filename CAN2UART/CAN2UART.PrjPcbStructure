@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CAN2UART.SchDoc
+Record=SheetSymbol|SourceDocument=CAN2UART.SchDoc|Designator=5V_3.3V|SchDesignator=5V_3.3V|FileName=AMS1117_5-3.3V.SchDoc|SymbolType=Normal|RawFileName=AMS1117_5-3.3V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CAN2UART.SchDoc|Designator=CH340|SchDesignator=CH340|FileName=UART_CH340E.SchDoc|SymbolType=Normal|RawFileName=UART_CH340E.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CAN2UART.SchDoc|Designator=MIN-SYS|SchDesignator=MIN-SYS|FileName=STM32F103C8T6MIN-SYS.SchDoc|SymbolType=Normal|RawFileName=STM32F103C8T6MIN-SYS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CAN2UART.SchDoc|Designator=TJA1050|SchDesignator=TJA1050|FileName=CAN_TJA1050.SchDoc|SymbolType=Normal|RawFileName=CAN_TJA1050.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

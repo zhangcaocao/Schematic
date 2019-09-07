@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U2 Old Footprint=LQFP48_N New Footprint=LQFP48_M
+Added Room: Name=5V_3.3V
+Added Room: Name=CH340
+Added Room: Name=MIN-SYS
+Added Room: Name=TJA1050

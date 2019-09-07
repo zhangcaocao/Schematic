@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED4 Pin=U1-14
+Removed Pin From Net: NetName=LED5 Pin=U1-15
+Removed Pin From Net: NetName=LED6 Pin=U1-16
+Removed Pin From Net: NetName=LED7 Pin=U1-17
+Added Pin To Net: NetName=LED4 Pin=U1-37
+Added Pin To Net: NetName=LED5 Pin=U1-38
+Added Pin To Net: NetName=LED6 Pin=U1-39
+Added Pin To Net: NetName=LED7 Pin=U1-40
+Added Room: Name=STM32_FFT

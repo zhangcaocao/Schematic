@@ -1,0 +1,36 @@
+Change Component Comment : Designator=R4 Old Comment=1M New Comment=1.5K
+Change Component Comment : Designator=Y2 Old Comment=8MHZ New Comment=12MHz
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=1.5K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=1.5K
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=1.5K
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=104
+Change Component Comment : Designator=C4 Old Comment=22 New Comment=104
+Change Component Comment : Designator=C5 Old Comment=22 New Comment=104
+Change Component Comment : Designator=C6 Old Comment=22PF New Comment=104
+Change Component Comment : Designator=C7 Old Comment=22PF New Comment=104
+Change Component Comment : Designator=R5 Old Comment=22R New Comment=1.5K
+Change Component Comment : Designator=R6 Old Comment=22R New Comment=1.5K
+Change Component Comment : Designator=Y1 Old Comment=32.768K New Comment=12MHz
+Change Component Comment : Designator=R8 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R9 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R10 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R11 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R12 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R13 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R14 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R15 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=R16 Old Comment=510R New Comment=1.5K
+Change Component Comment : Designator=DS0 Old Comment=LED0 New Comment=LED1
+Change Component Comment : Designator=DS2 Old Comment=LED2 New Comment=LED1
+Change Component Comment : Designator=DS3 Old Comment=LED3 New Comment=LED1
+Change Component Comment : Designator=DS4 Old Comment=LED4 New Comment=LED1
+Change Component Comment : Designator=DS5 Old Comment=LED5 New Comment=LED1
+Change Component Comment : Designator=DS6 Old Comment=LED6 New Comment=LED1
+Change Component Comment : Designator=DS7 Old Comment=LED7 New Comment=LED1
+Change Component Comment : Designator=DS_source Old Comment=LED_Source New Comment=LED1
+Change Component Comment : Designator=USB_Source Old Comment=Mini-USB New Comment=USB
+Change Component Comment : Designator=P2 Old Comment=OLED New Comment=Header 7
+Change Component Comment : Designator=P1 Old Comment=SWD New Comment=Header 4
+Change Component Comment : Designator=BOOT1 Old Comment=VCC3.3 New Comment=VCC5
+Change Component Comment : Designator=VOUT1 Old Comment=VCC3.3 New Comment=VCC5
+Added Room: Name=STM32_FFT
